@@ -19,6 +19,9 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 | Project | What it is |
 | --- | --- |
 | 🏎️ [**rc-lap-timer**](https://github.com/kbennett2000/rc-lap-timer) | Free lap-timing system for casual RC racing. Next.js + TypeScript + Prisma + MySQL on a Raspberry Pi Zero 2 W, with motion-detection timing via the device camera and an IR beacon mode in beta. |
+| 🪙 [**hedera-first-rwa-dapp**](https://github.com/kbennett2000/hedera-first-rwa-dapp) | Educational template for building your first compliant Real World Asset (RWA) token — Solidity contract + React/TypeScript frontend on Hedera EVM. Built to teach. |
+| 🏦 [**hedera-native-rwa-dapp**](https://github.com/kbennett2000/hedera-native-rwa-dapp) | Part 2 of the RWA series: a compliance-gated RWA token built on _native_ Hedera services (HTS keys, HCS audit trail, Mirror Node) with a React investor dApp. |
+| 🤖 [**sourced**](https://github.com/kbennett2000/sourced) | A grounded answer engine comparing Brave Search's Web Search vs. LLM Context endpoints. Next.js 15 + Vercel AI SDK + Claude. |
 | 🌤️ [**weather-station-public**](https://github.com/kbennett2000/weather-station-public) | A home weather station built on ESP32 + FreeRTOS with BME280, TSL2591, and GPS sensors. Data lands in MySQL on a Pi or Linux box and gets served over the local network. |
 | ⛪ [**church-site-template**](https://github.com/kbennett2000/church-site-template) | A free, modern website template for small churches — editors update content in the browser, no developer required. |
 | 🟦 [**ouroboros-leios**](https://github.com/input-output-hk/ouroboros-leios) | Contributor — design and prototyping for the Ouroboros Leios consensus protocol. |
@@ -27,7 +30,7 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 ## 🧰 Tech I reach for
 
 **Web & dApps**  JavaScript · TypeScript · React · Next.js · Node · Tailwind
-**Web3**  Cardano (TS SDK, MeshJS) · Agoric SDK & Orchestration API · smart contracts · dApps · EVM-adjacent tooling
+**Web3**  Cardano (TS SDK, MeshJS) · Agoric SDK & Orchestration API · Hedera (HTS, HCS, EVM) · smart contracts · dApps · EVM-adjacent tooling
 **Hardware & IoT**  ESP32 · FreeRTOS · Raspberry Pi · C++ · Python
 **Data & backend**  MySQL · Prisma · REST APIs
 **Plus**  cloud architecture, .NET, curriculum design, AI-assisted content workflows
@@ -41,6 +44,7 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 
 ## 🤝 Let's connect
 
+- 📄 **Resume** — [Markdown](RESUME.md) · [PDF](RESUME.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kbennett2000/)
 - 📫 kbennett2000 [at] gmail.com
 - 📍 Elizabeth, Colorado
