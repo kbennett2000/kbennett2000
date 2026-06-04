@@ -51,10 +51,4 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kbennett2000&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" alt="Kris's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbennett2000&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
 <p align="center"><em>Happy building 🏗️</em></p>
