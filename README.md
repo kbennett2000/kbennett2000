@@ -14,6 +14,23 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 - ⚙️ **Open-source side projects** — turning weird ideas into hardware + full-stack apps
 - 🎓 **Hands-on developer education** — labs, certification programs, and content that respects your time
 
+## 🌟 Building in the open: the Concord ecosystem
+
+A self-hosted Scripture toolchain I designed as one coherent system —
+engine, reference app, and a curriculum that teaches people to build on it.
+
+- ⚙️ **[Concord](https://github.com/kbennett2000/concord)** — a LAN-first, offline
+  Scripture API: 13 aligned translations, semantic ("verses about anxiety") search,
+  and Bible-world geography that stays honest about places it can't locate.
+  Published image, fully offline at runtime.
+- 📖 **[songbird](https://github.com/kbennett2000/songbird)** — the reference app on
+  Concord's `/v1`: read, annotate, link a sermon to a passage, see it on a map.
+- 🎓 **[concord-tutorial-web](https://github.com/kbennett2000/concord-tutorial-web)** →
+  **[concord-tutorial-react](https://github.com/kbennett2000/concord-tutorial-react)** —
+  a two-course ladder from "what's an API?" to reading songbird's actual source.
+
+*Build the thing, then teach people to build on it — the whole loop, in public.*
+
 ## 📌 A few projects I'm proud of
 
 | Project | What it is |
