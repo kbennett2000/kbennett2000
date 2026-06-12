@@ -17,7 +17,7 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 ## 🌟 Building in the open: the Concord ecosystem
 
 A self-hosted Scripture toolchain I designed as one coherent system —
-engine, reference app, and a curriculum that teaches people to build on it.
+engine, reference app, an AI connector, and a curriculum that teaches people to build on it.
 
 - ⚙️ **[Concord](https://github.com/kbennett2000/concord)** — a LAN-first, offline
   Scripture API: 13 aligned translations, semantic ("verses about anxiety") search,
@@ -25,9 +25,14 @@ engine, reference app, and a curriculum that teaches people to build on it.
   Published image, fully offline at runtime.
 - 📖 **[songbird](https://github.com/kbennett2000/songbird)** — the reference app on
   Concord's `/v1`: read, annotate, link a sermon to a passage, see it on a map.
+- 🔌 **[concord-mcp](https://github.com/kbennett2000/concord-mcp)** — an MCP connector
+  that lets Claude (and any MCP client) pull verses straight from your own Concord
+  instead of guessing. Looked up, never made up.
 - 🎓 **[concord-tutorial-web](https://github.com/kbennett2000/concord-tutorial-web)** →
-  **[concord-tutorial-react](https://github.com/kbennett2000/concord-tutorial-react)** —
-  a two-course ladder from "what's an API?" to reading songbird's actual source.
+  **[concord-tutorial-react](https://github.com/kbennett2000/concord-tutorial-react)** →
+  **[concord-tutorial-ai](https://github.com/kbennett2000/concord-tutorial-ai)** —
+  a three-course ladder from "what's an API?" to reading songbird's source to teaching
+  an AI to stop inventing verses.
 
 *Build the thing, then teach people to build on it — the whole loop, in public.*
 
