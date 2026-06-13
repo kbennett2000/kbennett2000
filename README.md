@@ -1,68 +1,83 @@
 # Hi, I'm Kris 👋
 
-**Developer Relations Engineer · Web3 Technical Educator · Solutions Architect**
+**Solutions Architect · I ship production software solo, at team speed, with AI · 25+ years across enterprise & Web3**
 
-I'm a builder who teaches and a teacher who builds. Over 25+ years I've worn a lot of hats — enterprise architect, solutions lead, co-founder, Chief Learning Officer, DevRel — but the thread that runs through all of it is the same: take something genuinely complex, make it work, and then help other people understand it well enough to ship their own thing.
+I'm a builder who teaches and a teacher who builds — but first, I ship. Over 25+ years I've worn a lot of hats (enterprise architect, solutions lead, co-founder, Chief Learning Officer, DevRel), and the thread through all of it is the same: take something genuinely complex, architect it, and get it into production.
 
-Lately that's meant Web3 — most recently working on Developer Relations for [IOG's](https://www.iog.io/) Leios next-generation consensus algorithm on Cardano, and before that architecting JavaScript smart contracts and dApps at [Agoric](https://agoric.com/). When I'm not pushing protocols I'm in my workshop in Colorado wiring up ESP32s, racing RC cars in the driveway, or scaffolding free tools for folks who can't afford the paid ones.
+What's different now is the leverage. AI-accelerated workflows mean I take projects from whiteboard to shipped, production-grade code *solo* — at a pace that used to require a full delivery team, without the team's cost or coordination overhead. The repos below aren't toys or tutorials; they're working, self-hosted, full-stack systems I designed and built end to end.
 
 ---
 
-## 🛠️ What I'm working on
+## 💼 Available for work
 
-- 🟦 **Cardano & Leios** — tutorials, demos, and developer content for next-gen consensus
-- ⚙️ **Open-source side projects** — turning weird ideas into hardware + full-stack apps
-- 🎓 **Hands-on developer education** — labs, certification programs, and content that respects your time
+I'm taking on **contract and fractional Solutions Architect** engagements. The sweet spot is teams who need senior architecture judgment *and* someone who'll actually build the thing, fast:
 
-## 🌟 My flagship: the Concord ecosystem
+- 🏛️ **Architecture & technical strategy** — system design, API design, self-hosted and cloud infrastructure
+- ⚡ **AI-accelerated delivery** — rapid prototypes, MVPs, and production builds, solo or alongside your team
+- 🔌 **AI/LLM integration** — MCP tooling, grounded answer engines, AI-assisted workflows
+- 🧱 **Full-stack product development** — React/Next.js · FastAPI/Node · Docker · self-hosting
 
-A self-hosted Scripture toolchain I designed as one coherent system —
-engine, reference app, an AI connector, and a curriculum that teaches people to build on it.
+📫 **kbennett2000 [at] gmail.com** · [LinkedIn](https://www.linkedin.com/in/kbennett2000/) · 📍 Elizabeth, Colorado
 
-- ⚙️ **[Concord](https://github.com/kbennett2000/concord)** — a LAN-first, offline
-  Scripture API: 13 aligned translations, semantic ("verses about anxiety") search,
-  and Bible-world geography that stays honest about places it can't locate.
-  Published image, fully offline at runtime.
+---
+
+## 📚 Track record
+
+- 🏛️ Co-founded [Blockchain Training Alliance](https://blockchaintrainingalliance.com/) and led it to a successful **exit in 2021**
+- 🎓 **150,000+** learners trained globally through certification programs I designed
+- 🏢 Built education programs and Centers of Excellence with **Deloitte, Air France, and the USPTO**
+- 🟦 Developer Relations on [IOG's](https://www.iog.io/) **Ouroboros Leios** next-gen consensus algorithm (Cardano)
+- ⚙️ Architected JavaScript smart contracts and dApps at [Agoric](https://agoric.com/)
+- 🗓️ **25+ years** turning whiteboards into shipped systems
+
+---
+
+## 🛠️ What I'm doing now
+
+- 🧱 **Independent practice** — architecting and shipping production systems for clients, solo and AI-accelerated
+- ⚙️ **Open-source systems** — turning weird ideas into hardware + full-stack apps, in public
+- 🔌 **AI/LLM tooling** — MCP connectors and grounded-retrieval patterns that make AI useful on private data
+
+## 🌟 Flagship: the Concord ecosystem
+
+A coherent, multi-component system I designed and built end to end — **engine, reference app, AI connector, and curriculum** — as one architecture rather than a pile of scripts. It happens to serve Scripture; the point is the system design.
+
+- ⚙️ **[Concord](https://github.com/kbennett2000/concord)** — a LAN-first, fully offline
+  REST API: 13 aligned datasets, semantic ("verses about anxiety") search, and geography
+  that stays honest about what it can't locate. Published image, offline at runtime.
 - 📖 **[songbird](https://github.com/kbennett2000/songbird)** — the reference app on
-  Concord's `/v1`: read, annotate, link a sermon to a passage, see it on a map.
+  Concord's `/v1`: multi-user FastAPI/React/Docker, read · annotate · cross-link · map.
 - 🔌 **[concord-mcp](https://github.com/kbennett2000/concord-mcp)** — an MCP connector
-  that lets Claude (and any MCP client) pull verses straight from your own Concord
-  instead of guessing. Looked up, never made up.
+  that lets Claude (and any MCP client) pull data straight from your own instance instead
+  of guessing. Looked up, never made up.
 - 🎓 **[concord-tutorial-web](https://github.com/kbennett2000/concord-tutorial-web)** →
-  **[concord-tutorial-react](https://github.com/kbennett2000/concord-tutorial-react)** →
-  **[concord-tutorial-ai](https://github.com/kbennett2000/concord-tutorial-ai)** —
-  a three-course ladder from "what's an API?" to reading songbird's source to teaching
-  an AI to stop inventing verses.
+  **[react](https://github.com/kbennett2000/concord-tutorial-react)** →
+  **[ai](https://github.com/kbennett2000/concord-tutorial-ai)** — a three-course ladder
+  from "what's an API?" to reading the source to teaching an AI to ground its answers.
 
-*Build the thing, then teach people to build on it — the whole loop, in public.*
+*Architect the whole system, then teach people to build on it — the whole loop, in public.*
 
-## 📌 A few other projects I'm proud of
+## 📌 Selected projects
 
-| Project | What it is |
+| Project | Architecture & stack |
 | --- | --- |
-| 🏎️ [**rc-lap-timer**](https://github.com/kbennett2000/rc-lap-timer) | Free lap-timing system for casual RC racing. Next.js + TypeScript + Prisma + MySQL on a Raspberry Pi Zero 2 W, with motion-detection timing via the device camera and an IR beacon mode in beta. |
-| 🪙 [**hedera-first-rwa-dapp**](https://github.com/kbennett2000/hedera-first-rwa-dapp) | Educational template for building your first compliant Real World Asset (RWA) token — Solidity contract + React/TypeScript frontend on Hedera EVM. Built to teach. |
-| 🏦 [**hedera-native-rwa-dapp**](https://github.com/kbennett2000/hedera-native-rwa-dapp) | Part 2 of the RWA series: a compliance-gated RWA token built on _native_ Hedera services (HTS keys, HCS audit trail, Mirror Node) with a React investor dApp. |
-| 🤖 [**sourced**](https://github.com/kbennett2000/sourced) | A grounded answer engine comparing Brave Search's Web Search vs. LLM Context endpoints. Next.js 15 + Vercel AI SDK + Claude. |
-| 🌤️ [**weather-station-public**](https://github.com/kbennett2000/weather-station-public) | A home weather station built on ESP32 + FreeRTOS with BME280, TSL2591, and GPS sensors. Data lands in MySQL on a Pi or Linux box and gets served over the local network. |
-| ⛪ [**church-site-template**](https://github.com/kbennett2000/church-site-template) | A free, modern website template for small churches — editors update content in the browser, no developer required. |
-| 🟦 [**ouroboros-leios**](https://github.com/input-output-hk/ouroboros-leios) | Contributor — design and prototyping for the Ouroboros Leios consensus protocol. |
+| 🎮 [**lan-games**](https://github.com/kbennett2000/lan-games) | Real-time multiplayer game platform — 8 turn-based games in the browser, live multiplayer over Node.js + Socket.io. Concurrency, game-state sync, and room management, built solo. |
+| 📓 [**soap-journal**](https://github.com/kbennett2000/soap-journal) | Self-hosted, multi-user journaling app — FastAPI + React + Docker, auth, 13 translations. End-to-end production build: backend, frontend, data, deployment. |
+| 🤖 [**sourced**](https://github.com/kbennett2000/sourced) | Grounded answer engine comparing Brave Search's Web Search vs. LLM Context endpoints. Next.js 15 + Vercel AI SDK + Claude. |
+| 🏦 [**hedera-native-rwa-dapp**](https://github.com/kbennett2000/hedera-native-rwa-dapp) | Compliance-gated Real World Asset token on *native* Hedera services (HTS keys, HCS audit trail, Mirror Node) with a React investor dApp. |
+| 🌤️ [**weather-station-public**](https://github.com/kbennett2000/weather-station-public) | Full IoT pipeline — ESP32 + FreeRTOS with BME280/TSL2591/GPS sensors → MySQL on a Pi/Linux box → served over the LAN. Hardware to dashboard. |
+| 🏎️ [**rc-lap-timer**](https://github.com/kbennett2000/rc-lap-timer) | Camera-based lap timing — Next.js + TypeScript + Prisma + MySQL on a Pi Zero 2 W, with motion-detection timing and an IR beacon mode. |
+| 🟦 [**ouroboros-leios**](https://github.com/input-output-hk/ouroboros-leios) | Contributor — design and prototyping for the Ouroboros Leios consensus protocol (IOG). |
 | 🪙 [**Agoric/dapp-offer-up**](https://github.com/Agoric/dapp-offer-up) | Contributor — sample dApp on the Agoric smart contract platform. |
 
 ## 🧰 Tech I reach for
 
-**Web & dApps**  JavaScript · TypeScript · React · Next.js · Node · Tailwind
-**Web3**  Cardano (TS SDK, MeshJS) · Agoric SDK & Orchestration API · Hedera (HTS, HCS, EVM) · smart contracts · dApps · EVM-adjacent tooling
-**Hardware & IoT**  ESP32 · FreeRTOS · Raspberry Pi · C++ · Python
-**Data & backend**  MySQL · Prisma · REST APIs
-**Plus**  cloud architecture, .NET, curriculum design, AI-assisted content workflows
-
-## 📚 A few numbers
-
-- 🎓 **150,000+** learners trained globally through enterprise blockchain certification programs I designed
-- 🏢 Built education programs and Centers of Excellence with **Deloitte, Air France, and the USPTO**
-- 🏛️ Co-founded [Blockchain Training Alliance](https://blockchaintrainingalliance.com/) and led it to a successful exit in 2021
-- 🗓️ **25+ years** turning whiteboards into shipped systems
+**Web & full-stack**  TypeScript · JavaScript · React · Next.js · Node · FastAPI · Tailwind
+**Backend & data**  Python · MySQL · Prisma · REST API design · Docker · self-hosting
+**AI/LLM**  MCP servers & connectors · grounded retrieval · AI-assisted delivery workflows
+**Hardware & IoT**  ESP32 · FreeRTOS · Raspberry Pi · C++
+**Web3**  Cardano (TS SDK, MeshJS) · Agoric SDK · Hedera (HTS, HCS, EVM) · smart contracts · dApps
+**Plus**  cloud & solution architecture · .NET · curriculum design
 
 ## 🤝 Let's connect
 
@@ -73,4 +88,4 @@ engine, reference app, an AI connector, and a curriculum that teaches people to 
 
 ---
 
-<p align="center"><em>Happy building 🏗️</em></p>
+<p align="center"><em>Architect it. Ship it. 🏗️</em></p>
