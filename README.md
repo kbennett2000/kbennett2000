@@ -14,7 +14,7 @@ Lately that's meant Web3 — most recently working on Developer Relations for [I
 - ⚙️ **Open-source side projects** — turning weird ideas into hardware + full-stack apps
 - 🎓 **Hands-on developer education** — labs, certification programs, and content that respects your time
 
-## 🌟 Building in the open: the Concord ecosystem
+## 🌟 My flagship: the Concord ecosystem
 
 A self-hosted Scripture toolchain I designed as one coherent system —
 engine, reference app, an AI connector, and a curriculum that teaches people to build on it.
@@ -36,7 +36,7 @@ engine, reference app, an AI connector, and a curriculum that teaches people to 
 
 *Build the thing, then teach people to build on it — the whole loop, in public.*
 
-## 📌 A few projects I'm proud of
+## 📌 A few other projects I'm proud of
 
 | Project | What it is |
 | --- | --- |
