@@ -1,99 +1,87 @@
 # Kris Bennett
+**Founder & Solutions Architect — Modern Software Delivery**
 
-**Solutions Architect · Ships production software solo, at team speed, with AI · 25+ years across enterprise & Web3**
+> I help businesses turn ideas into working software — faster and leaner, delivering the output of a full team on my own with a modern toolset.
 
-Elizabeth, CO · [kbennett2000@gmail.com](mailto:kbennett2000@gmail.com) · [linkedin.com/in/kbennett2000](https://www.linkedin.com/in/kbennett2000/) · [github.com/kbennett2000](https://github.com/kbennett2000)
+Elizabeth, CO · [kbennett2000@gmail.com](mailto:kbennett2000@gmail.com) · [linkedin.com/in/kbennett2000](https://linkedin.com/in/kbennett2000) · [github.com/kbennett2000](https://github.com/kbennett2000)
 
-## Professional Summary
+---
 
-Solutions Architect and hands-on builder with 25+ years designing and delivering enterprise systems — including National, Principal, and Enterprise Architect roles at IBM, CGI, RBA, and Qortex — now shipping production software solo at the pace of a full delivery team using AI-accelerated workflows. Deep range across enterprise modernization (cloud migration, legacy re-engineering, large-scale integration), full-stack product development (React/Next.js, FastAPI/Node, Docker, self-hosted infrastructure), AI/LLM tooling, and Web3 (Cardano, Agoric, Hedera). Co-founded a blockchain education company, scaled it to 150,000+ learners worldwide, and led it to a successful exit. Equally comfortable architecting the system, building it, and teaching others to extend it.
+## Summary
 
-## Professional Experience
+For 25 years I've helped organizations turn complex problems into software that actually ships — from Fortune 500s and government agencies to fast-moving startups. Today I do it solo, using a modern toolset to deliver in weeks what used to take a full team months. I've architected enterprise systems at IBM and CGI, and co-founded and sold a company that trained 150,000+ professionals worldwide. If you have an idea, a problem, or an aging system holding you back, I take it from "what if" to working — without the overhead, delays, and hand-offs of a traditional build.
 
-### Independent Solutions Architect & Consultant
-*Elizabeth, CO | March 2026 – Present*
+**25+** years turning ideas into shipped software  ·  **150K+** professionals trained worldwide  ·  **Weeks** from idea to launched — not months
 
-- Take projects from architecture through to shipped, production-grade code solo, using AI-accelerated workflows to deliver at the pace of a full team.
-- Design and build full-stack, self-hosted systems end to end — React/Next.js and FastAPI/Node backends, Dockerized deployment, MySQL/Prisma data layers — across web, mobile (Capacitor/Android), and IoT (ESP32/Raspberry Pi).
-- Build AI/LLM tooling, including MCP connectors and grounded-retrieval systems that make AI reliable on private, domain-specific data.
-- Available for contract and fractional engagements in solution architecture, rapid prototyping and MVPs, AI-assisted delivery, and technical strategy.
+---
 
-### Developer Relations Specialist — [Input Output Global (IOG)](https://www.iog.io/)
-*Longmont, CO | February 2025 – March 2026*
+## How I Help
 
-- Created and shipped production-grade React/TypeScript dApp demos, code samples, technical tutorials, and live sessions for the Leios next-generation consensus algorithm and Cardano scalability initiatives.
-- Spearheaded Developer Relations, Community Management, and Technical Marketing for IOG's Research & Development group; served as primary technical liaison to external steering and advisory committees.
-- Collaborated daily with engineering, research, product, and community teams to align technical content with roadmap priorities; built and refined AI-assisted content and development workflows.
-- Delivered education for developers, stake pool operators, business leaders, and ecosystem participants worldwide.
+- **Idea → working MVP** — Real, working software in weeks — not a slide deck or a six-month quote.
+- **Full product builds** — Customer-facing web and mobile apps, from first sketch to launch.
+- **Automation & efficiency** — Modern tools and automation that cut busywork and put your own data to work for you.
+- **Fractional tech lead** — One accountable senior partner — strategy to launch, no hand-offs.
 
-### Developer Relations — [Agoric OpCo](https://agoric.com/)
-*Remote | August 2023 – August 2024*
+*Under the hood: React · Next.js · Node · Python · AI / LLM tooling · cloud & self-hosted infrastructure · web, mobile & IoT.*
 
-- Architected and designed highly available decentralized Web3 applications using JavaScript smart contracts, React/TypeScript frontends, the Agoric SDK, and Orchestration API.
-- Directed technical strategy for developer onboarding and education; produced hands-on learning experiences, code samples, best practices, and reusable templates.
-- Developed and launched a global developer curriculum, certification program, and advocate network; mentored developers and partnered with product and engineering on developer-facing initiatives.
+---
 
-### Co-Founder & Chief Learning Officer — [Blockchain Training Alliance](https://blockchaintrainingalliance.com/)
-*Remote | February 2018 – April 2023*
+## Track Record
 
-- Co-founded the company and led it to a successful sale in 2021; designed, developed, and scaled technical and non-technical Web3 education programs that trained and certified 150,000+ learners globally, establishing the organization as the premier enterprise blockchain training provider.
-- Partnered with Fortune-level clients (Deloitte, Air France, U.S. Patent & Trademark Office) to build internal Web3 education programs and Centers of Excellence.
-- Architected and implemented client-specific Web3 solutions aligned with strategic business objectives.
+### Founder & Solutions Architect — Twelve Rocks, LLC
+*Elizabeth, CO · Mar 2026 – Present*
 
-### National Architect / Market Lead — [IBM (Neudesic)](https://www.neudesic.com/)
-*Denver, CO | June 2016 – April 2018*
+- Take businesses from idea to launched product — strategy, build, and delivery handled by one accountable partner instead of a patchwork team.
+- Deliver in weeks what agencies quote in months, using a modern toolset to do the heavy lifting — so clients spend less and find out what works sooner.
+- Build the things that earn or save money: customer-facing web and mobile apps, internal tools that erase busywork, and automation that works reliably with a company's own data.
+- Available for a single build, a quick MVP to test an idea, or an ongoing fractional technical lead role.
 
-- Led enterprise modernization initiatives including cloud migrations, legacy re-engineering, CI/CD integration, large-scale data integrations, and advanced analytics/reporting platforms for Fortune 500 and public-sector clients.
-- Designed and delivered greenfield cloud solutions and modern development practices across diverse industries.
-- Managed offshore/hybrid project teams; provided technical mentorship and drove adoption of automation and best practices.
+### Developer Relations Specialist — Input Output Global (IOG)
+*Longmont, CO · Feb 2025 – Mar 2026*
 
-### National Solutions Architect — [CGI (ECSTeam)](https://www.cgi.com/)
-*Denver, CO | May 2013 – May 2016*
+- Was the trusted technical voice for a global research organization's most ambitious project — the person who made complex technology make sense to everyone else.
+- Turned cutting-edge research into clear, hands-on material that developers around the world could actually pick up and use.
 
-- Delivered national-level solutions architecture and technical leadership on large-scale enterprise client engagements.
-- Designed complex system integrations, custom software solutions, and architecture strategies for public and private sector organizations.
-- Collaborated with stakeholders to align technical solutions with business objectives while ensuring scalability and performance.
+### Developer Relations — Agoric
+*Remote · Aug 2023 – Aug 2024*
 
-### Enterprise Architect — [RBA Consulting](https://www.rbaconsulting.com/)
-*Denver, CO | September 2011 – May 2013*
+- Built the onboarding, curriculum, and mentor network that brought a worldwide community of builders onto a brand-new platform.
 
-- Provided enterprise architecture expertise and strategic technology roadmaps for complex client environments.
-- Led design and implementation of integrated solutions across IT systems and business processes.
-- Supported technical decision-making and best-practice adoption for development teams.
+### Co-Founder & Chief Learning Officer — Blockchain Training Alliance
+*Remote · Feb 2018 – Apr 2023 · Founded · Sold*
 
-### Principal Architect — [Qortex](https://www.qortex.ai/)
-*Denver, CO | January 2011 – September 2011*
+- Co-founded a company, grew it into the category's go-to name — training and certifying 150,000+ professionals worldwide — and sold it.
+- Partnered directly with major organizations, including Deloitte, Air France, and the U.S. Patent & Trademark Office, to build their internal programs.
 
-- Delivered principal-level architecture and technical solutions for enterprise technology projects.
+### National Architect / Market Lead — IBM (Neudesic)
+*Denver, CO · Jun 2016 – Apr 2018*
 
-### Principal Solutions Architect — [Aspenware](https://aspenware.com/)
-*Denver, CO | April 2010 – December 2010*
+- Led modernization programs for Fortune 500 and government clients — replacing aging systems with ones that run faster, cost less, and are ready to grow.
 
-- Designed and architected custom software solutions and led technical delivery as principal consultant.
+### National Solutions Architect — CGI (ECSTeam)
+*Denver, CO · May 2013 – May 2016*
 
-### Technical Solutions Manager — [Concentrix (ProKarma)](https://www.concentrix.com/)
-*Denver, CO | February 2009 – April 2010*
+- Owned the technical direction on large enterprise projects, making sure complex builds delivered on time and held up under real-world demand.
 
-- Managed technical solution delivery and client engagements in CX design and digital engineering services.
-- Provided pre-sales technical leadership and implementation support for complex technology projects.
+### Enterprise Architect — RBA Consulting
+*Denver, CO · Sep 2011 – May 2013*
 
-### Earlier Experience
+- Set technology strategy and roadmaps for complex organizations — and led the teams that turned them into working systems.
 
-- **Executive Solutions Manager**, [Qortex](https://www.qortex.ai/) — Denver, CO | May 2007 – February 2009. Executive-level solution strategy, client relationship management, and technical delivery.
-- **Lead Solutions Architect**, [Nelnet (5280 Solutions)](https://secure.nelnet.net/) — Denver, CO | November 2005 – May 2007. Solution architecture for enterprise platforms in financial/educational loan services (SharePoint, document automation, custom integrations).
-- **Lead Developer & Custom Solutions Architect**, [Media Audits International](https://www.mai-global.com/) — Denver, CO | August 2004 – November 2005. Custom software for media financial auditing and compliance in cable/broadcast.
-- **Data Conversion Specialist**, [Ceyoniq Technology (Treev)](https://ceyoniq.com/en/) — Denver, CO | September 2000 – August 2004. Large-scale data conversion, migration, and digitization for ECM/DMS platforms.
+---
+
+## Earlier Experience
+
+- **Principal Architect** · Qortex — *2011*
+- **Principal Solutions Architect** · Aspenware — *2010*
+- **Technical Solutions Manager** · Concentrix (ProKarma) — *2009–2010*
+- **Executive Solutions Manager** · Qortex — *2007–2009*
+- **Lead Solutions Architect** · Nelnet (5280 Solutions) — *2005–2007*
+- **Lead Developer & Custom Solutions Architect** · Media Audits International — *2004–2005*
+- **Data Conversion Specialist** · Ceyoniq Technology (Treev) — *2000–2004*
+
+---
 
 ## Education
 
-**Bachelor of Science in Information Systems**
-Colorado State University, Fort Collins, CO — May 2000
-
-## Technical & Professional Skills
-
-- **Architecture & Delivery:** Solution & enterprise architecture, system & API design, cloud migration & modernization, legacy re-engineering, large-scale data integration, self-hosted infrastructure, Docker, CI/CD
-- **Languages & Full-Stack:** TypeScript, JavaScript, React, Next.js, Node, Python, FastAPI, .NET, Tailwind; MySQL, Prisma, REST API design
-- **AI / LLM:** AI-accelerated development workflows, MCP servers & connectors, grounded retrieval, AI-assisted content
-- **Hardware & IoT:** ESP32, FreeRTOS, Raspberry Pi, C++
-- **Web3 / Blockchain:** Smart contracts, dApps, Cardano (TS SDK, MeshJS), Agoric SDK & Orchestration API, Hedera (HTS, HCS, EVM)
-- **Education & DevRel:** Curriculum design, certification programs, hands-on labs, technical content (tutorials, video, live coding), developer onboarding & advocate networks
+**B.S. in Information Systems** · Colorado State University — *Fort Collins, CO · May 2000*
