@@ -23,6 +23,7 @@ I'm taking on **contract and fractional Solutions Architect** engagements. The s
 
 ## 📚 Track record
 
+- 📰 Creator of [Brickfeed News](https://www.brickfeed.news/)
 - 🏛️ Co-founded [Blockchain Training Alliance](https://blockchaintrainingalliance.com/) and led it to a successful **exit in 2021**
 - 🎓 **150,000+** learners trained globally through certification programs I designed
 - 🏢 Built education programs and Centers of Excellence with **Deloitte, Air France, and the USPTO**
